@@ -1,4 +1,8 @@
-
+.yo{
+    width: 10rem;
+    height: 6rem;
+    background-color: blue;
+}
 h1{
     color: green;
 }
